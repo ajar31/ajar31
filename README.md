@@ -1,4 +1,4 @@
-Actualmente estoy estudiando una fp en desarrollo de aplicaciones multiplataforma 
+Actualmente estoy estudiando una fp en desarrollo de aplicaciones multiplataforma  
 y he realizado  cursos de desarrollo cloud y transformacion digital. 
 Soy una persona curiosa, empática y que aprende rápido.   
 Considero que trabajo eficazmente en equipo de manera organizada  
