@@ -1,5 +1,7 @@
 ## Actualmente estoy estudiando una fp en desarrollo de aplicaciones multiplataforma y he realizado  cursos de desarrollo cloud y transformacion digital.
 Soy una persona curiosa, empática y que aprende rápido. Considero que trabajo eficazmente en equipo de manera organizada y actualmente me estoy enfocando en el mundo digital como programador.
+
+
 <a href="https://app.daily.dev/albertojoslvarezrodrguez"><img src="https://api.daily.dev/devcards/v2/aEVfZdqtRbyM1l48qqKzm.png?type=default&r=sxu" width="356" alt="Alberto José Álvarez Rodríguez's Dev Card"/></a>
 
 <!--
